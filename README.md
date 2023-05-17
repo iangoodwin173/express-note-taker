@@ -3,8 +3,6 @@
 # Description
 This repository contains code, links, and images relating to a note taker app that utilizes Express.js.
 
-# Use
-
 # Images
 
 -----Initial Load:----- 
