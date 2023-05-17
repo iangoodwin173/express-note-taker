@@ -1,22 +1,7 @@
 [
     {
-        "title":"Note 1",
-        "text":"Here is note 1",
-        "id": "ced5b847-2751-4717-b1db-1182cdef718f"
-    },
-    {
-        "title":"Note 2",
-        "text":"Here is note 2",
-        "id": "4ae24bbf-d6a0-4014-a0ff-6ef4a603696c"
-    },
-    {
-        "title":"Note 3",
-        "text":"Here is note 3",
-        "id": "19b31e72-ee84-46e7-9906-6d49301ee814"
-    },
-    {
-        "title":"Note 4",
-        "text":"Here is note 4",
-        "id": "c2583362-27cc-4724-a163-a37c98b82457"
+        "title": "test note",
+        "text": "yes",
+        "id": "4b1cdf7e-5ad7-441d-9175-4522838ea4fc"
     }
 ]

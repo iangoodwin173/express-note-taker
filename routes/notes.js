@@ -11,8 +11,8 @@ notes.get('/:id', (req, res) => {
   readFromFile('./db/db.json')
     .then((data) => JSON.parse(data))
     .then((json) => {
-      const result = json.filter((note) => note.id === noteID);
-      return result.length > 0
+      const returnedNote = json.filter((note) => note.id === noteID);
+      return returnedNote.length > 0
         ? res.json(result)
         : res.json('there is no note that has that ID');
     });
@@ -55,7 +55,7 @@ notes.post('/', (req, res) => {
 
       res.json(response);
     } else {
-      res.error('Error in adding note');
+      res.error('note add error');
     }
 })
 
