@@ -8,5 +8,6 @@ This repository contains code, links, and images relating to a note taker app th
 # Images
 
 # Links
-GitHub Repo: 
-Deployed Heroku Site: 
+GitHub Repo: https://github.com/iangoodwin173/express-note-taker
+
+Deployed Heroku Site: https://challenge-express-notetaker.herokuapp.com/
